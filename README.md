@@ -1,4 +1,4 @@
-现在在 [Cubot-Refactor](https://github.com/cubot-refactor-code-plan) 与 [26-TI](https://github.com/26-TI) 这两个个人组织中协作开发，代码项目见下方 Pinned 区
+在个人组织： [Cubot-Refactor](https://github.com/cubot-refactor-code-plan) 与 [26-TI](https://github.com/26-TI) 中协作开发，代码项目见下方 Pinned 区
 
 待办：
 - RK3506音视频项目
