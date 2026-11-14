@@ -1,4 +1,9 @@
-现在在 [Cubot-Refactor](https://github.com/cubot-refactor-code-plan) 与 [26-TI](https://github.com/26-TI) 这两个小组织中协作开发，做的小项目见下方 Pinned 区
+现在在 [Cubot-Refactor](https://github.com/cubot-refactor-code-plan) 与 [26-TI](https://github.com/26-TI) 这两个个人组织中协作开发，代码项目见下方 Pinned 区
+
+待办：
+- RK3506音视频项目
+- MSPM0G3519代码重构
+- 26TI中的完整工程整理
 
 *有问题或想合作，在仓库里提 issue 联系我*
 
