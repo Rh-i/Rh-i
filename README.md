@@ -6,10 +6,6 @@ Hi, I'm **Yunhan**.
 
 <sub>前两项是组织仓库：<a href="https://github.com/cubot-refactor-code-plan">cubot-refactor-code-plan</a> · <a href="https://github.com/26-TI">26-TI</a>　有问题或想合作，在任意仓库开个 issue 就能找到我。</sub>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rh-i&hide_border=true&locale=zh" alt="Commit streak" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rh-i/Rh-i/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Rh-i/Rh-i/output/github-snake.svg" alt="Contribution snake" />
