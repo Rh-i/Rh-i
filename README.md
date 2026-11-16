@@ -1,6 +1,6 @@
 ### Hi 👋
 
-📝 **个人博客：[rh-i.github.io](https://rh-i.github.io)** · [RSS 订阅](https://rh-i.github.io/atom.xml)
+📝 **个人博客：[rh-i.github.io](https://rh-i.github.io)**
 
 <sub>嵌入式 C++ · FreeRTOS · Linux 驱动 · 工具链折腾</sub>
 
