@@ -1,16 +1,7 @@
-Hi
+### Hi 👋
 
-已有项目：
-- STM32F4/STM32H7的底层代码框架开源
-- 第21届智能车人工智能模型组 TC264控制代码开源（双核：一核FreeRTOS，一核裸机）
-- MSPM0系列芯片的底层代码库框架开源（不完善 26年TI电赛备赛产物）
+📝 **个人博客：[rh-i.github.io](https://rh-i.github.io)** · [RSS 订阅](https://rh-i.github.io/atom.xml)
 
-敬请期待：
-- RK3506音视频终端开源
-- MSPM0G3519小车软硬件开源
-- STM32F407VET6小车软硬件开源
-- 26TI中的拼图装置软硬件开源
-- 27年工训赛智能救援软硬件开源
-- TC264双核FreeRTOS的学习及整理
+<sub>嵌入式 C++ · FreeRTOS · Linux 驱动 · 工具链折腾</sub>
 
 *有问题或想合作，在仓库里提 issue 联系我*
